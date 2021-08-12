@@ -1,2 +1,2 @@
 # EncryptionIO
-Encryption Program 
+Encryption Program using the ASCII codes 
